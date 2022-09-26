@@ -29,7 +29,7 @@ Nim    : 2110131220010
 
 <p align = "justify">Setiap lapisan layer dari struktur tersebut merupakan hasil implementasi dari objek abstrak. Dimana hasil implementasi tersebut merupakan enkapsulasi data dan operasi yang bisa dimanipulasi. Agar lebih jelas, berikut jenis layer yang digunakan dalam sistem operasi:</p>
 
-##### 1. Lapisan Perangkat Keras
+#### 1. Lapisan Perangkat Keras
 
 <p align = "justify">Lapisan perangkat keras merupakan lapisan paling bawah pada sistem operasi berlapis. Lapisan ini terdiri dari sirkuit elektronik yang berfungsi untuk membersihkan register ataupun membaca lokasi memori, set instruksi pada prosesor, serta interupsi yang berisikan perintah yang dijalankan.</p>
 
